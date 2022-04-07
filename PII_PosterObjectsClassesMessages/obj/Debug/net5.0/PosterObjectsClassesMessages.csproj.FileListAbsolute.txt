@@ -1,0 +1,16 @@
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.exe
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.deps.json
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.dll
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\ref\PosterObjectsClassesMessages.dll
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\bin\Debug\net5.0\PosterObjectsClassesMessages.pdb
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.dll
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\ref\PosterObjectsClassesMessages.dll
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.pdb
+C:\Users\Felipe\OneDrive\Desktop\UCU\Programacion 2\Person con Nombre y Cedula\PII_PosterObjectsClassesMessages\obj\Debug\net5.0\PosterObjectsClassesMessages.genruntimeconfig.cache
